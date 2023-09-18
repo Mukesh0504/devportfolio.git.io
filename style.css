@@ -705,14 +705,14 @@ header {
 }
 
 .layer h5 {
-    color: black;
+    color: white;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 15px;
 }
 
 .layer p {
-    color: black;
+    color: white;
     font-size: 1rem;
     line-height: 1.8;
 }
